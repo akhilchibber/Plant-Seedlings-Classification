@@ -3,6 +3,9 @@
   <img src="https://github.com/akhilchibber/Plant-Seedlings-Classification/blob/main/Plant-Seedlings-Classification.jpg?raw=true" alt="earthml Logo">
 </p>
 
+## Dataset
+The dataset used in this project can be found on Kaggle: [Plant Seedlings Classification Dataset](https://www.kaggle.com/datasets/vbookshelf/v2-plant-seedlings-dataset). 
+
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
 
