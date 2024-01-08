@@ -3,9 +3,6 @@
   <img src="https://github.com/akhilchibber/Plant-Seedlings-Classification/blob/main/Plant-Seedlings-Classification.jpg?raw=true" alt="earthml Logo">
 </p>
 
-## Purpose
-This project serves as an educational tool for understanding and applying deep learning techniques in a real-world context. It demonstrates how machine learning can aid in crucial tasks like agricultural disease detection, providing valuable insights for crop management.
-
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
 
