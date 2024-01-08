@@ -1,6 +1,6 @@
 # Deep Learning based Plant Seedlings Classification
 <p align="center">
-  <img src="https://github.com/akhilchibber/Bean-Leaf-Lesions-Classification/blob/main/Bean_Leaf_Lesions.png?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Plant-Seedlings-Classification/blob/main/Plant-Seedlings-Classification.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Purpose
