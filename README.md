@@ -4,7 +4,7 @@
 </p>
 
 ## Dataset
-The dataset used in this project can be found on Kaggle: [Plant Seedlings Classification Dataset](https://www.kaggle.com/datasets/vbookshelf/v2-plant-seedlings-dataset). 
+This project utilizes the "V2 Plant Seedlings Dataset," which comprises 5,539 images of crop and weed seedlings at different growth stages, which can be found on Kaggle: [Plant Seedlings Classification Dataset](https://www.kaggle.com/datasets/vbookshelf/v2-plant-seedlings-dataset). The dataset is richly diverse, containing 12 distinct plant species common in Danish agriculture. Each class consists of RGB images showing plants at various growth stages, making it a perfect dataset for our classification task.
 
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
