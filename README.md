@@ -1,6 +1,6 @@
 # Deep Learning based Plant Seedlings Classification
 <p align="center">
-  <img src="https://github.com/akhilchibber/Plant-Seedlings-Classification/blob/main/Plant-Seedlings-Classification.jpg?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Plant-Seedlings-Classification/blob/main/Plant-Seedlings.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
